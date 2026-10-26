@@ -1,4 +1,4 @@
-# ISM3232 Midterm: [the business name]
+# ISM3232 Midterm: Ridgeline Tool Rental
 
 - **Name:** Noah Chavez
 - **Version:** Alpha
